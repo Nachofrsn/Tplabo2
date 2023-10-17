@@ -1,0 +1,6 @@
+Barcos,destino,Forma Exportacion,Fecha Salida,Fecha Llegada,Cantidad Containers,Toneladas Bodega,Toneladas Container
+1,Beijing,Contenedor,15/05/2023,07/06/2023,5,10,20
+2,Tokyo,Bodega,15/05/2023,09/06/2023,4,8,15
+3,Seoul,Contenedor,15/05/2023,10/06/2023,3,10,18
+4,Amsterdam,Contenedor,15/05/2023,10/06/2023,5,7,19
+5,Sydney,Bodega,15/05/2023,08/06/2023,3,11,17

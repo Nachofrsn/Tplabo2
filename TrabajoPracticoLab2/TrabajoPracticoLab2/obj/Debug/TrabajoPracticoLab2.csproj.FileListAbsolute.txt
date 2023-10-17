@@ -1,0 +1,8 @@
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\bin\Debug\TrabajoPracticoLab2.exe.config
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\bin\Debug\TrabajoPracticoLab2.exe
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\bin\Debug\TrabajoPracticoLab2.pdb
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\obj\Debug\TrabajoPracticoLab2.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\obj\Debug\TrabajoPracticoLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\obj\Debug\TrabajoPracticoLab2.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\obj\Debug\TrabajoPracticoLab2.exe
+C:\Users\corde\Desktop\Tplabo2\TrabajoPracticoLab2\TrabajoPracticoLab2\obj\Debug\TrabajoPracticoLab2.pdb
